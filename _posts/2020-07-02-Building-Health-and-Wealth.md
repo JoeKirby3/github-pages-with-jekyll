@@ -1,6 +1,6 @@
 ---
-title: "Building Your Health & Wealth"
-date: 2020/07/02
+title: Building Your Health & Wealth
+date: 2020-07-02
 ---
 
 Building Your Health & Wealth!
